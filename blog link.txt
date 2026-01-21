@@ -1,0 +1,4 @@
+https://shubham-singh.dev/posts/usecase-specific-small-language-models/
+
+
+dataset  link : https://huggingface.co/datasets/OpenCoder-LLM/opc-sft-stage2
